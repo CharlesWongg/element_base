@@ -90,7 +90,7 @@ new Vue({
 })
 ```
 修改 / src/App.vue
-```javascript
+```vue
 <!--/src/App.vue-->
 <template>
   <div id="app">
@@ -117,7 +117,7 @@ export default {
 给 /src/pages/index.vue 添加内空
 给 /src/pages/test.vue 添加内空
 npm run dev 测试一下程序
-```javascript
+```vue
 <!--/src/pages/index.vue-->
 <template>
     <div>
@@ -250,7 +250,7 @@ new Vue({
 ```
 
 通过 `mapState`、`mapGetters`、`mapActions` 使用 vuex
-```javascript
+```vue
 <!--/src/pages/index.vue-->
 <template>
     <div>
