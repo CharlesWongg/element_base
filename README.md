@@ -12,7 +12,7 @@ elementUI基本版
 npm install babel-plugin-transform-object-rest-spread -D
 ```
 
-#### 2.按装  `babel-cli`, `babel-preset-es2015` 
+#### 2.安装  `babel-cli`, `babel-preset-es2015` 
 ```
 npm i babel-cli babel-preset-es2015 -D
 ```
@@ -29,7 +29,7 @@ npm i babel-cli babel-preset-es2015 -D
 ```
 ![](https://raw.githubusercontent.com/CharlesWongg/mobile_forward/master/DA885772DD4145CA590BC0A5513A6400.jpg)
 
-#### 3.按装 vue-router
+#### 3.安装 vue-router
 ```
 npm i vue-router -S
 ```
